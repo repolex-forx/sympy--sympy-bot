@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sympy/sympy-bot/commit/497288b56304aaf61cf5f4f32320b7e9f0033f6f",
       "git:hexsha": "497288b56304aaf61cf5f4f32320b7e9f0033f6f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
