@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/sympy/sympy-bot",
+  "@type": "gh:Repository",
+  "gh:name": "sympy-bot",
+  "gh:owner": "sympy",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/sympy/sympy-bot/commit/497288b56304aaf61cf5f4f32320b7e9f0033f6f",
+      "git:hexsha": "497288b56304aaf61cf5f4f32320b7e9f0033f6f",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
